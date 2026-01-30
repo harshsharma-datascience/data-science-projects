@@ -14,6 +14,10 @@ I am passionate about turning data into meaningful insights. I enjoy working on 
 - Databases: SQL
 - Machine Learning: Regression, Classification, Clustering
 - Tools: Git, GitHub
+- <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ---
 
